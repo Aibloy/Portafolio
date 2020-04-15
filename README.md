@@ -8,6 +8,7 @@ Ejemplo de enlace [aqui](https://www.kaggle.com/artgor/russia-usa-india-and-othe
 | Notebook | Descripción |Type|
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
 |[Iris dataset](https://nbviewer.jupyter.org/github/Aibloy/Python/blob/master/Arboles%20de%20decisi%C3%B3n%20.ipynb)| Clasificación de plantas por medidas | Árboles de decisión |
+|Enlace|describe|clasifica|
 
 
 | [tsf-basics](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-examples/notebooks/1_intro/basic_operations.ipynb) | Learn basic operations in TensorFlow, a library for various kinds of perceptual and language understanding tasks from Google. |Ejemplo |
