@@ -20,7 +20,7 @@ Ejemplo de enlace [aqui](https://www.kaggle.com/artgor/russia-usa-india-and-othe
 
 
  Notebook | Descripción | Ejemplo  |
-|----------------------------|----------------------------|--------------|
+|------|--------|----------|
 
 
 
