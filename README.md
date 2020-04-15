@@ -4,4 +4,9 @@ Este es mi portafolio personal donde comparto projectos de análisis con bases d
 
 Ejemplo de enlace [aqui](https://www.kaggle.com/artgor/russia-usa-india-and-other-countries) 
 
+
+| Notebook | Description |
+|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
 Si te gusta lo que ves, deseas hablar conmigo sobre el portafolio, oportunidades de trabajo o colaboración, puedes contactar conmigo en mi correo personal: williamvivanco@hotmail.es 
