@@ -7,7 +7,7 @@ Ejemplo de enlace [aqui](https://www.kaggle.com/artgor/russia-usa-india-and-othe
 
 | Notebook | Descripción | Objetivo| keywords |
 |-------|--------|---------|---------|
-|[ Iris dataset ](https://nbviewer.jupyter.org/github/Aibloy/Python/blob/master/Arboles%20de%20decisi%C3%B3n%20.ipynb)| Dataset clasico con medidas del tallo de plantas (longitud, anchura...)| Clasificarlas con sus medidas  | Árboles de decisión|
+|[ Iris dataset ](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Iris.ipynb)| Dataset clasico con medidas del tallo de plantas (longitud, anchura...)| Clasificarlas con sus medidas  | Árboles de decisión, PCA|
 |[Enlace](link)| describe | problema | metodo |
 |[Enlace](link)| describe | problema | metodo |
 |[Enlace](link)| describe | problema | metodo |
