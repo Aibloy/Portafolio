@@ -2,7 +2,7 @@
 Este es mi portafolio personal donde comparto projectos de análisis con bases de datos públicas 
 
 
-| Notebook | Descripción | Objetivo| keywords |
+| Notebook(Enlace) | Descripción | Objetivo| keywords |
 |-------|--------|---------|---------|
 |[ Iris dataset ](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Iris.ipynb)| Dataset clasico con medidas del tallo de plantas (longitud, anchura...)| Clasificarlas con sus medidas  | Árboles de decisión, PCA|
 |[Enlace](link)| describe | problema | metodo |
