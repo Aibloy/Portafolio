@@ -14,7 +14,7 @@ Este es mi portafolio personal donde comparto projectos de análisis con bases d
 | Enlace | Nombre Projecto | Descripción|
 |---------|-----------------|---------|
 |[TFG](https://github.com/Aibloy/Portafolio/blob/master/TFG%20-%20An%C3%A1lisis%20de%20datos%20con%20R.pdf)| Trabajo de fin de grado: Análisis de datos con R | Clusterizar usuarios de una web de citas: 68.731 mil usuarios y 2621 variables |
-|[En proceso...]| Procesamiento del lenguaje natural y personalidad | Diseñar un modelo para analizar la personalidad de usuarios de Twitter en base a su lenguaje | 
+|TFM[En proceso...]| Trabajo de fin de Máster: Procesamiento del lenguaje natural y personalidad | Diseñar un modelo para analizar la personalidad de usuarios de Twitter en base a su lenguaje | 
 
 
 
