@@ -4,8 +4,8 @@ Este es mi portafolio personal donde comparto projectos de análisis con bases d
 
 | Notebook(Enlace) | Descripción | Objetivo| keywords |
 |-------|--------|---------|---------|
-|[ Iris dataset ](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Iris.ipynb)| Dataset clasico con medidas del tallo de plantas (longitud, anchura...)| Clasificarlas con sus medidas  | Árboles de decisión, PCA|
-|[Enlace](link)| describe | problema | metodo |
+|[ Iris dataset ](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Iris.ipynb)| Dataset clasico con medidas del tallo de plantas (longitud, anchura...)| Clasificarlas con sus medidas  | Decision Tree, PCA|
+|[Titanic](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Titanic.ipynb)| Datos de los pasajeros del titanic | Explorar la base de datos y tratar de predecir a los supervivientes | Random Forest, GridSearch, Ensemble methods, Seaborn|
 |[Enlace](link)| describe | problema | metodo |
 |[Enlace](link)| describe | problema | metodo |
 
