@@ -9,7 +9,7 @@ Este es mi portafolio personal donde comparto projectos de análisis con bases d
 |[Enlace](link)| describe | problema | metodo |
 |[Enlace](link)| describe | problema | metodo |
 
-https://github.com/Aibloy/Portafolio/blob/master/TFG%20-%20An%C3%A1lisis%20de%20datos%20con%20R.pdf
+
 
 | Enlace | Nombre Projecto | Descripción|
 |---------|-----------------|---------|
