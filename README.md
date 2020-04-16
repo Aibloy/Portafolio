@@ -9,7 +9,7 @@ Este es mi portafolio personal donde comparto projectos de análisis con bases d
 |[Enlace](link)| describe | problema | metodo |
 |[Enlace](link)| describe | problema | metodo |
 
-
+## Otros projectos independientes: 
 
 | Enlace | Nombre Projecto | Descripción|
 |---------|-----------------|---------|
