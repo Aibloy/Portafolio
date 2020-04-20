@@ -25,7 +25,7 @@ Portafolio que contiene una serie de projectos personales realizados con fines a
 - ### Deep Learning
 
   - [Handwritten Digits ](Link): **Redes neuronales**  para reconocer dígitos escritos a mano, un clásico.
-  - [Gato o Perro ?](Link): **Redes neuronales de convolución** para clasificación de imagenes
+  - [Gato o Perro ?](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Gato%20o%20Perro.ipynb): **Redes neuronales de convolución** para clasificación de imagenes
   - [](Link)
   - [](Link)
   - [](Link)
