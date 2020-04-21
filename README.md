@@ -5,17 +5,13 @@ Portafolio que contiene una serie de projectos personales realizados con fines a
 - ### Data Analysis and Visualization
 
   - [Titanic](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Titanic.ipynb): Análisis exploratorio de los pasajeros a bordo del Titanic usando **Pandas** y **Seaborn**
-  - [](Link)
-  - [](Link)
 
 - ### Machine Learning
 
   - SUPERVISED: 
     - [HR Analytics](Link): Predicción de rotación laboral de empleados mediante datos de RRHH
-    - [](Link)
   - UNSUPERVISED
     - [**Análisis Factorial** - Young People Survey](Link):  Clusterización  de adolescentes 
-    - [](Link)
 
 - ### Natural Language Processing
 
@@ -26,9 +22,6 @@ Portafolio que contiene una serie de projectos personales realizados con fines a
 
   - [Handwritten Digits ](Link): **Redes neuronales**  para reconocer dígitos escritos a mano, un clásico.
   - [¿Gato o Perro?](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Gato%20o%20Perro.ipynb): **Redes neuronales de convolución** para clasificación de imagenes
-  - [](Link)
-  - [](Link)
-  - [](Link)
 
 - ### Micro-projectos
 
