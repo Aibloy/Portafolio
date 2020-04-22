@@ -7,11 +7,13 @@ Portafolio que contiene una serie de projectos personales realizados con fines a
   - [Titanic](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Titanic.ipynb): Análisis exploratorio de los pasajeros a bordo del Titanic usando **Pandas** y **Seaborn**
 
 - ### Machine Learning
-
   - SUPERVISED: 
     - [HR Analytics](Link): Predicción de rotación laboral de empleados mediante datos de RRHH
+    
   - UNSUPERVISED
-    - [**Análisis Factorial** - Young People Survey](Link):  Clusterización  de adolescentes 
+    - [Young People Survey](Link):  Clusterización  de adolescentes mediante **Análisis factorial**
+    - [Segmentación de clientes](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Segmentaci%C3%B3n%20de%20compradores.ipynb): Clusterización de clientes mediante **K-Means**
+    
 
 - ### Natural Language Processing
 
