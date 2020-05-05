@@ -17,7 +17,7 @@ Portafolio que contiene una serie de projectos personales realizados con fines a
 
 - ### Natural Language Processing
 
-  - [Sentimental Analysis](Link): Análisis del lenguaje de criticas a un restaurante
+  - [Fake News](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Fake%20News.ipynb): Detección de noticias falsas mediante análisis del lenguaje. 
   - [Twitter MBTI](Link): Análisis del lenguaje usado en Tweets para clasificar la personalidad 
 
 - ### Deep Learning
