@@ -4,7 +4,7 @@ Portafolio que contiene una serie de projectos personales realizados con fines a
 
 - ### Data Analysis and Visualization
 
-  - [Titanic](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Titanic.ipynb): Análisis exploratorio de los pasajeros a bordo del Titanic usando **Pandas** y **Seaborn**
+  - [Titanic](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Titanic.ipynb): Análisis exploratorio de los pasajeros a bordo del Titanic usando **Pandas** y **Seaborn** y predicción de Supervivientes 
 
 - ### Machine Learning
   - SUPERVISED: 
