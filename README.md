@@ -9,6 +9,8 @@ Portafolio que contiene una serie de projectos personales realizados con fines a
 - ### Machine Learning
   - SUPERVISED: 
     - [HR Analytics](Link): Predicción de rotación laboral de empleados mediante datos de RRHH
+    - [Decision Trees](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Iris.ipynb): Clasificación de plantas - Iris dataset
+    
     
   - UNSUPERVISED
     - [Young People Survey](Link):  Clusterización  de adolescentes mediante **Análisis factorial**
@@ -24,10 +26,13 @@ Portafolio que contiene una serie de projectos personales realizados con fines a
 
   - [¿Gato o Perro?](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Gato%20o%20Perro.ipynb): **Redes neuronales de convolución** para clasificación de imagenes
   - [Perceptrón a mano](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Perceptr%C3%B3n%20from%20scratch.ipynb): Programación de un Perceptrón desde 0 para entender mejor su funcionamiento interno. 
-
+  
+- ### Inteligencia Artificial
+  - [Muestreo Thompson](link): Optimización en selección de anuncios para campaña de Marketing 
+  
 - ### Micro-projectos
 
-  - [Machine Learning with **Decision Trees**](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Iris.ipynb): Clasificación de plantas - Iris dataset
+
   - [Machine Learning and Feature Selection](Link): **Logistic Regression, Random Forest**...
   - [Machine Learning and Ensemble Methods](Link): **Voting, Stacking.**..
   - [Machine Learning and Hyperparameter optimization](Link): **GridSearch**
