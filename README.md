@@ -28,7 +28,7 @@ Portafolio que contiene una serie de projectos personales realizados con fines a
   - [Perceptrón a mano](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Perceptr%C3%B3n%20from%20scratch.ipynb): Programación de un Perceptrón desde 0 para entender mejor su funcionamiento interno. 
   
 - ### Inteligencia Artificial
-  - [Muestreo Thompson](link): Optimización de beneficios mediante selección de anuncios para campaña de Marketing 
+  - [Muestreo Thompson](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Muestreo%20Thompson.ipynb): Optimización de beneficios mediante selección de anuncios para campaña de Marketing 
   
 - ### Micro-projectos
 
