@@ -36,6 +36,10 @@ Portafolio que contiene una serie de projectos personales realizados con fines a
   - [Machine Learning and Feature Selection](Link): **Logistic Regression, Random Forest**...
   - [Machine Learning and Ensemble Methods](Link): **Voting, Stacking.**..
   - [Machine Learning and Hyperparameter optimization](Link): **GridSearch**
+  
+  
+- ### Otros
+   - [Ejercicios](Link): Ejercicios básicos de programación en Python 
 
 - ### Projectos
 
