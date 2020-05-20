@@ -31,10 +31,10 @@ Portafolio que contiene una serie de projectos personales realizados con fines a
   - [Muestreo Thompson](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Muestreo%20Thompson.ipynb): Optimización de beneficios mediante selección de anuncios para campaña de Marketing 
   
 - ### Cuadros de Mando: 
-*Los informes son dinámicos pero solo pueden publicarse vía web mediante cuenta Premium. En cualquier caso adjunto el archivo real. 
-  - [](): 
-  - [PDF][Original](https://app.powerbi.com/view?r=eyJrIjoiYWRlMTY3NzAtYTc2NS00YWEzLWI2OTktMDYzNWQ5ZGFmMzg1IiwidCI6IjJiMDc5ZGM3LWUyZWEtNDViYy05MTgyLTBmZGUxNGI1NDliMSIsImMiOjh9): Análisis de mortalidad infantil, esperanza de vida y población por país 
-  - []():
+*Los informes son dinámicos pero solo pueden publicarse vía web mediante cuenta Premium. Adjunto el pdf aunque puedes solicitarme el .pbix original a mi correo.
+  - [PDF](): Cuadro de mando con reporte de ventas 
+  - [PDF](): Cuadro de mando con datos Demográficos 
+  - [PDF](): Cuadro de mando con reporte de RRHH 
   
 - ### Micro-projectos
 
