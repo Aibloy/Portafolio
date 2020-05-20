@@ -32,9 +32,9 @@ Portafolio que contiene una serie de projectos personales realizados con fines a
   
 - ### Cuadros de Mando: 
 *Los informes son dinámicos pero solo pueden publicarse vía web mediante cuenta Premium. Adjunto el pdf aunque puedes solicitarme el .pbix original a mi correo.
-  - [PDF](): Cuadro de mando con reporte de ventas 
-  - [PDF](): Cuadro de mando con datos Demográficos 
-  - [PDF](): Cuadro de mando con reporte de RRHH 
+  - [Reporte de Ventas](): Cuadro de mando con histórico de la industria de videojuegos 
+  - [Datos Demográficos](): Datos mundiales de esperanza de vida, mortalidad infantil...
+  - [RRHH](): Ejemplo de cuadro de mando para un departamento de RRHH
   
 - ### Micro-projectos
 
