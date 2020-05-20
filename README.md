@@ -30,6 +30,11 @@ Portafolio que contiene una serie de projectos personales realizados con fines a
 - ### Inteligencia Artificial
   - [Muestreo Thompson](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Muestreo%20Thompson.ipynb): Optimización de beneficios mediante selección de anuncios para campaña de Marketing 
   
+- ### Cuadros de Mando: 
+  - [](): 
+  - [Demografía Mundial](https://app.powerbi.com/view?r=eyJrIjoiYWRlMTY3NzAtYTc2NS00YWEzLWI2OTktMDYzNWQ5ZGFmMzg1IiwidCI6IjJiMDc5ZGM3LWUyZWEtNDViYy05MTgyLTBmZGUxNGI1NDliMSIsImMiOjh9): Análisis de mortalidad infantil, esperanza de vida y población por país 
+  - []():
+  
 - ### Micro-projectos
 
 
