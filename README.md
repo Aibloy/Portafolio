@@ -32,20 +32,14 @@ Portafolio que contiene una serie de projectos personales realizados con fines a
   
 - ### Cuadros de Mando: 
 *Los informes son dinámicos pero solo pueden publicarse vía web mediante cuenta Premium. Adjunto el pdf aunque puedes solicitarme el .pbix original a mi correo.
-  - [Reporte de Ventas](): Cuadro de mando con histórico de la industria de videojuegos 
-  - [Datos Demográficos](): Datos mundiales de esperanza de vida, mortalidad infantil...
-  - [RRHH](): Ejemplo de cuadro de mando para un departamento de RRHH
-  
-- ### Micro-projectos
 
+  - [Reporte de Ventas](https://github.com/Aibloy/Portafolio/blob/master/Dashboard%20Ventas.pdf): Cuadro de mando con histórico de la industria de videojuegos 
+  - [Datos Demográficos](https://github.com/Aibloy/Portafolio/blob/master/Dashboard%20Demogr%C3%A1fico.pdf): Datos mundiales de esperanza de vida, mortalidad infantil...
+  - [RRHH](https://github.com/Aibloy/Portafolio/blob/master/Dashboard%20rrhh.pdf): Ejemplo de cuadro de mando para un departamento de RRHH
+  
 
-  - [Machine Learning and Feature Selection](Link): **Logistic Regression, Random Forest**...
-  - [Machine Learning and Ensemble Methods](Link): **Voting, Stacking.**..
-  - [Machine Learning and Hyperparameter optimization](Link): **GridSearch**
-  
-  
 - ### Otros
-   - [Ejercicios](Link): Ejercicios básicos de programación en Python 
+   - [Ejercicios](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Ejercicios%20de%20Python.ipynb): Ejercicios básicos de programación en Python 
 
 - ### Projectos
 
