@@ -30,7 +30,7 @@ Portafolio que contiene una serie de projectos personales realizados con fines a
 - ### Inteligencia Artificial
   - [Muestreo Thompson](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Muestreo%20Thompson.ipynb): Optimización de beneficios mediante selección de anuncios para campaña de Marketing 
   
-- ### Cuadros de Mando: 
+- ### Cuadros de Mando (Power BI): 
 *Los informes son dinámicos pero solo pueden publicarse vía web mediante cuenta Premium. Adjunto el pdf aunque puedes solicitarme el .pbix original a mi correo.
 
   - [Reporte de Ventas](https://github.com/Aibloy/Portafolio/blob/master/Dashboard%20Ventas.pdf): Cuadro de mando con histórico de la industria de videojuegos 
