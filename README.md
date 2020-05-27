@@ -5,16 +5,16 @@ Portafolio que contiene una serie de projectos personales realizados con fines a
 - ### Data Analysis and Visualization
 
   - [Titanic](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Titanic.ipynb): Análisis exploratorio de los pasajeros a bordo del Titanic usando **Pandas** y **Seaborn** y predicción de Supervivientes 
-  - [Young People Survey](Link):  Análisis completo de una inmensa encuesta realizada a adolescentes con cientos de preguntas, incluyendo análisis exploratorio y explicación de varianza usando regresión logística. 
+  - [Young People Survey](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Young%20People%20Survey%20-%20diferencias%20g%C3%A9nero%20.ipynb):  Análisis completo de una inmensa encuesta realizada a adolescentes con cientos de preguntas, incluyendo análisis exploratorio y explicación de varianza usando regresión logística. 
 
 - ### Machine Learning
   - SUPERVISED: 
-    - [HR Analytics](Link): Predicción de rotación laboral de empleados mediante datos de RRHH
+    - [HR Analytics](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/HR%20ANALYTICS%20.ipynb): Predicción de rotación laboral de empleados mediante datos de RRHH
     - [Decision Trees](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Iris.ipynb): Clasificación de plantas - Iris dataset
     
     
   - UNSUPERVISED
-    - [Young People Survey](Link):  Clusterización  de hábitos y personalidad de adolescentes mediante **Análisis factorial**
+    - [Young People Survey](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Young%20People%20Survey%20-%20An%C3%A1lisis%20Factorial%20.ipynb):  Clusterización  de hábitos y personalidad de adolescentes mediante **Análisis factorial**
     - [Segmentación de clientes](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Segmentaci%C3%B3n%20de%20compradores.ipynb): Clusterización de clientes mediante **K-Means**
     
 
