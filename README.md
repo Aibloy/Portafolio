@@ -5,7 +5,7 @@ Portafolio que contiene una serie de projectos personales realizados con fines a
 - ### Data Analysis and Visualization
 
   - [Titanic](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Titanic.ipynb): Análisis exploratorio de los pasajeros a bordo del Titanic usando **Pandas** y **Seaborn** y predicción de Supervivientes 
-  - [Young People Survey](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Young%20People%20Survey%20-%20diferencias%20g%C3%A9nero%20.ipynb):  Análisis completo de una inmensa encuesta realizada a adolescentes con cientos de preguntas, incluyendo análisis exploratorio y explicación de varianza usando regresión logística. 
+  - [Young People Survey](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Young%20People%20Survey%20-%20diferencias%20g%C3%A9nero%20.ipynb):  Análisis completo de una inmensa encuesta realizada a adolescentes con cientos de preguntas, incluyendo análisis exploratorio y predicción de nivel de felicidad usando regresión logística. 
 
 - ### Machine Learning
   - SUPERVISED: 
