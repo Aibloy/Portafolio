@@ -5,10 +5,10 @@ Portafolio que contiene una serie de projectos personales realizados con fines a
 
 - ## Projectos
  
-- [TFG](https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:ffbd3f72-134c-4b8a-a289-3109d9672ad2#pageNum=1): 
+   - [TFG](https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:ffbd3f72-134c-4b8a-a289-3109d9672ad2#pageNum=1): 
   Proyecto de fin de grado, Análisis de datos con R: 
   Clusterización de usuarios de una web de citas (OkCupid):  68.731 usuarios y 2621 variables 
-- [TFM](Link): Proyecto de fin de máster
+   - [TFM](Link): Proyecto de fin de máster
 
     Creación de una libreria que analice la personalidad mediante procesamiento del lenguaje natural. 
 
