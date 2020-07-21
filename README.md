@@ -41,7 +41,7 @@ Portafolio que contiene una serie de projectos personales realizados con fines a
    - [Young People Survey](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Young%20People%20Survey%20-%20diferencias%20g%C3%A9nero%20.ipynb):  Análisis completo de una encuesta realizada a adolescentes con cientos de variables, incluyendo análisis exploratorio, diferencias de género y predicción de nivel de felicidad usando regresión logística. 
 
  - ### Machine Learning
-   - SUPERVISED: 
+ - SUPERVISED: 
    - [HR Analytics](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/HR%20ANALYTICS%20.ipynb): Predicción de rotación laboral de empleados mediante datos de RRHH
    - [Decision Trees](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Iris.ipynb): Clasificación de plantas - Iris dataset
     
