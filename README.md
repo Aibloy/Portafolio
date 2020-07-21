@@ -15,7 +15,7 @@ Portafolio que contiene una serie de projectos personales realizados con fines a
 
     Modelo único entrenado con millones de textos en Español.    (En proceso)
 
-- ## Micro-projectos (Jupyter notebooks):
+- ## Micro-proyectos (Jupyter notebooks):
 
  - ### Deep Learning
 
