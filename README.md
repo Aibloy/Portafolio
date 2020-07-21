@@ -28,8 +28,7 @@ Portafolio que contiene una serie de projectos personales realizados con fines a
    - [Twitter MBTI](Link): Análisis del lenguaje usado en Tweets para clasificar la personalidad 
 
  - ### Cuadros de Mando (Power BI): 
-*Los informes son dinámicos pero solo pueden publicarse vía web mediante cuenta Premium. Adjunto el pdf aunque puedes solicitarme el .pbix original a mi correo.
-
+   *Los informes son dinámicos pero solo pueden publicarse vía web mediante cuenta Premium. Adjunto el pdf aunque puedes solicitarme el .pbix original a mi correo.
    - [Reporte de Ventas](https://github.com/Aibloy/Portafolio/blob/master/Dashboard%20Ventas.pdf): Cuadro de mando con histórico de la industria de videojuegos 
    - [Datos Demográficos](https://github.com/Aibloy/Portafolio/blob/master/Dashboard%20Demogr%C3%A1fico.pdf): Datos mundiales de esperanza de vida, mortalidad infantil...
    - [RRHH](https://github.com/Aibloy/Portafolio/blob/master/Dashboard%20rrhh.pdf): Ejemplo de cuadro de mando para un departamento de RRHH
