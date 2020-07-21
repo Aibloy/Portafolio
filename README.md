@@ -3,7 +3,7 @@
 Portafolio que contiene una serie de projectos personales realizados con fines académicos, de autoaprendizaje and just for fun ;) 
 
 
-- ## Projectos
+- ## Proyectos
  
    - [TFG](https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:ffbd3f72-134c-4b8a-a289-3109d9672ad2#pageNum=1): 
      Proyecto de fin de grado, Análisis de datos con R: 
